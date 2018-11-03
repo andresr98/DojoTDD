@@ -79,7 +79,7 @@ public class CodeBreakerTest {
 		// Act
 		result = codeBreaker.validarCoincidencia(number);
 		// Assert
-		assertEquals("XX", result);
+		assertEquals("X", result);
 	}
 	
 	@Test
